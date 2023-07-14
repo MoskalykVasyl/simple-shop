@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-shop/static/css/main.e814ec94.css",
+    "main.js": "/simple-shop/static/js/main.6f32c8c6.js",
+    "index.html": "/simple-shop/index.html",
+    "main.e814ec94.css.map": "/simple-shop/static/css/main.e814ec94.css.map",
+    "main.6f32c8c6.js.map": "/simple-shop/static/js/main.6f32c8c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e814ec94.css",
+    "static/js/main.6f32c8c6.js"
+  ]
+}
