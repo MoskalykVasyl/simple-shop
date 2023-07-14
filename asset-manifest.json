@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/simple-shop/static/css/main.e814ec94.css",
-    "main.js": "/simple-shop/static/js/main.a5cf8669.js",
+    "main.js": "/simple-shop/static/js/main.3002276b.js",
     "index.html": "/simple-shop/index.html",
     "main.e814ec94.css.map": "/simple-shop/static/css/main.e814ec94.css.map",
-    "main.a5cf8669.js.map": "/simple-shop/static/js/main.a5cf8669.js.map"
+    "main.3002276b.js.map": "/simple-shop/static/js/main.3002276b.js.map"
   },
   "entrypoints": [
     "static/css/main.e814ec94.css",
-    "static/js/main.a5cf8669.js"
+    "static/js/main.3002276b.js"
   ]
 }
