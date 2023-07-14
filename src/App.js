@@ -115,7 +115,7 @@ const isItemAdded=(id)=>{
      
     <Routes>
         <Route
-          path=""
+          path="/simple-shop/"
           element={
             <Home
               items={items}
@@ -131,12 +131,12 @@ const isItemAdded=(id)=>{
           exact
         />
         <Route
-        path="favorites"
+        path="/simple-shop/favorites"
         element={<Favorite 
           />}
         />
         <Route
-        path="orders"
+        path="/simple-shop/orders"
         element={<Orders 
           />}
         />
