@@ -115,7 +115,7 @@ const isItemAdded=(id)=>{
      
     <Routes>
         <Route
-          path="/"
+          path=""
           element={
             <Home
               items={items}
